@@ -1,0 +1,36 @@
+{
+    "Menu":[
+       {
+          "Dish":"Poori Bhaji",
+          "Price":"100"
+       },
+       {
+        "Dish":"Noodls",
+        "Price":"110"
+       },
+       {
+        "Dish":"Momos",
+        "Price":"60"
+       },
+       {
+        "Dish":"Chicken",
+        "Price":"260"
+       },
+       {
+        "Dish":"Mutton",
+        "Price":"560"
+       },
+       {
+        "Dish":"Kadhai Paneer",
+        "Price":"360"
+       },
+       {
+        "Dish":"Rolls",
+        "Price":"60"
+       },
+       {
+        "Dish":"Tea",
+        "Price":"30"
+       }
+    ]
+ }
